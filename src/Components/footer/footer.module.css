@@ -1,0 +1,39 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.P {
+  background-color: #1a252f;
+  color: white;
+
+  padding: 10px;
+}
+.footerStyle {
+  background-color: #2c3e50;
+  color: white;
+  margin: auto;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+
+  padding: 30px;
+}
+.cardcontrol {
+  width: 34%;
+}
+
+.pfontsize {
+  font-size: 14px;
+}
+
+.titleControl {
+  font-size: 24px;
+  padding-top: 15px;
+}
+.Pcontrol {
+  font-size: 13px;
+  padding-top: 10px;
+}
+
+.iconsControl {
+  margin-bottom: 25px;
+}

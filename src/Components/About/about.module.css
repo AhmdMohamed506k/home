@@ -1,0 +1,27 @@
+.About {
+}
+
+.AboutStyle {
+  background-color: #1abc9c;
+  height: 100vh;
+
+  color: white;
+}
+
+.title {
+  font-size: 36.5833px;
+  font-weight: 700;
+
+  margin: 0px 0px 16px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.line {
+  height: 4px;
+  width: 80px;
+  margin: 0 1rem;
+  background-color: white;
+}
+.rowCustomWidth {
+  width: 88%;
+}
